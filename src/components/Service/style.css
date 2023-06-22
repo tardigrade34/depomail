@@ -1,0 +1,201 @@
+.service {
+  background-color: #ffffff;
+  height: 572px;
+  width: 600px;
+}
+
+.service .div-2 {
+  height: 512px;
+  left: 40px;
+  position: relative;
+  top: 30px;
+  width: 520px;
+}
+
+.service .column {
+  height: 246px;
+  left: 0;
+  position: absolute;
+  top: 266px;
+  width: 520px;
+}
+
+.service .overlap-group-wrapper {
+  height: 246px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 254px;
+}
+
+.service .overlap-group-2 {
+  background-color: #f9f9f9;
+  border-radius: 8px;
+  height: 246px;
+  position: relative;
+  width: 250px;
+}
+
+.service .lorem-ipsum-is-text {
+  color: #595959;
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 30px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 123px;
+  width: 190px;
+}
+
+.service .technology {
+  color: #191919;
+  font-family: "Poppins", Helvetica;
+  font-size: 18px;
+  font-weight: 700;
+  left: 30px;
+  letter-spacing: 0;
+  line-height: 28px;
+  position: absolute;
+  top: 90px;
+  white-space: nowrap;
+  width: 190px;
+}
+
+.service .overlap-wrapper {
+  height: 246px;
+  left: 270px;
+  position: absolute;
+  top: 0;
+  width: 254px;
+}
+
+.service .overlap {
+  background-color: #f9f9f9;
+  border-radius: 8px;
+  height: 246px;
+  position: relative;
+  width: 250px;
+}
+
+.service .text-wrapper {
+  color: #595959;
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 30px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 123px;
+  width: 190px;
+}
+
+.service .development {
+  color: #191919;
+  font-family: "Poppins", Helvetica;
+  font-size: 18px;
+  font-weight: 700;
+  left: 30px;
+  letter-spacing: 0;
+  line-height: 28px;
+  position: absolute;
+  top: 90px;
+  white-space: nowrap;
+  width: 190px;
+}
+
+.service .column-2 {
+  height: 246px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 520px;
+}
+
+.service .column-3 {
+  height: 246px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 254px;
+}
+
+.service .overlap-group-3 {
+  background-color: #f9f9f9;
+  border-radius: 8px;
+  height: 246px;
+  position: relative;
+  width: 250px;
+}
+
+.service .p {
+  color: #595959;
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 30px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 123px;
+  width: 190px;
+}
+
+.service .design {
+  color: #191919;
+  font-family: "Poppins", Helvetica;
+  font-size: 18px;
+  font-weight: 700;
+  left: 30px;
+  letter-spacing: 0;
+  line-height: 28px;
+  position: absolute;
+  top: 90px;
+  white-space: nowrap;
+  width: 190px;
+}
+
+.service .column-4 {
+  height: 246px;
+  left: 270px;
+  position: absolute;
+  top: 0;
+  width: 254px;
+}
+
+.service .overlap-2 {
+  background-color: #f9f9f9;
+  border-radius: 8px;
+  height: 246px;
+  position: relative;
+  width: 250px;
+}
+
+.service .lorem-ipsum-is-text-2 {
+  color: #595959;
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 30px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 123px;
+  width: 190px;
+}
+
+.service .business {
+  color: #191919;
+  font-family: "Poppins", Helvetica;
+  font-size: 18px;
+  font-weight: 700;
+  left: 30px;
+  letter-spacing: 0;
+  line-height: 28px;
+  position: absolute;
+  top: 90px;
+  white-space: nowrap;
+  width: 190px;
+}

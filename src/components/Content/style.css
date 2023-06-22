@@ -1,0 +1,57 @@
+.content {
+  background-color: #ffffff;
+  height: 182px;
+  width: 600px;
+}
+
+.content .title {
+  height: 122px;
+  left: 40px;
+  position: relative;
+  top: 30px;
+  width: 526px;
+}
+
+.content .lorem-ipsum-is {
+  color: #595959;
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  top: 74px;
+  width: 520px;
+}
+
+.content .look-at-our-works {
+  color: #191919;
+  font-family: "Poppins", Helvetica;
+  font-size: 28px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 38px;
+  position: absolute;
+  text-align: center;
+  top: 31px;
+  white-space: nowrap;
+  width: 520px;
+}
+
+.content .our-portfolio {
+  color: #8844ff;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+  width: 520px;
+}

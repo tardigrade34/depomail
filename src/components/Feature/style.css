@@ -1,0 +1,98 @@
+.feature {
+  background-color: #ffffff;
+  height: 405px;
+  width: 600px;
+}
+
+.feature .other-module {
+  height: 345px;
+  left: 40px;
+  position: relative;
+  top: 30px;
+  width: 520px;
+}
+
+.feature .about-img {
+  height: 345px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 250px;
+}
+
+.feature .info {
+  height: 249px;
+  left: 270px;
+  position: absolute;
+  top: 40px;
+  width: 260px;
+}
+
+.feature .talk-more-about-your {
+  color: #191919;
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 26px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 99px;
+  white-space: nowrap;
+  width: 224px;
+}
+
+.feature .we-help-businesses {
+  color: #191919;
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 26px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 128px;
+  white-space: nowrap;
+  width: 224px;
+}
+
+.feature .change-the-way-for {
+  color: #191919;
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 26px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 157px;
+  white-space: nowrap;
+  width: 224px;
+}
+
+.feature .why-wait-start-your {
+  color: #191919;
+  font-family: "Poppins", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 29px;
+  width: 250px;
+}
+
+.feature .our-vision {
+  color: #8844ff;
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 600;
+  left: 0;
+  letter-spacing: 0.07px;
+  line-height: 24px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  width: 250px;
+}

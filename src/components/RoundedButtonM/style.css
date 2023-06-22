@@ -1,0 +1,26 @@
+.rounded-button-m {
+  align-items: center;
+  background-color: #8844ff;
+  border-radius: 45px;
+  display: flex;
+  gap: 8px;
+  justify-content: center;
+  overflow: hidden;
+  padding: 12px 30px;
+  position: relative;
+  width: fit-content;
+}
+
+.rounded-button-m .GET-STARTED {
+  color: #ffffff;
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: 0.07px;
+  line-height: 24px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}

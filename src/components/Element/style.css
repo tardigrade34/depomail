@@ -1,0 +1,53 @@
+.element {
+  height: 519px;
+  position: relative;
+  width: 600px;
+}
+
+.element .overlap-group {
+  height: 529px;
+  position: relative;
+}
+
+.element .mask-group {
+  height: 38px;
+  left: 300px;
+  position: absolute;
+  top: 445px;
+  width: 255px;
+}
+
+.element .img {
+  height: 519px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 600px;
+}
+
+.element .vector {
+  height: 34px;
+  left: 292px;
+  position: absolute;
+  top: 484px;
+  width: 187px;
+}
+
+.element .rectangle {
+  background-color: #eb682d;
+  height: 293px;
+  left: 578px;
+  position: absolute;
+  top: 236px;
+  width: 22px;
+}
+
+.element .div {
+  background-color: #46b1c9;
+  height: 89px;
+  left: 0;
+  position: absolute;
+  top: 430px;
+  width: 11px;
+}

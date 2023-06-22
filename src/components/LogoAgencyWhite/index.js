@@ -1,0 +1,1 @@
+export { LogoAgencyWhite } from "./LogoAgencyWhite";

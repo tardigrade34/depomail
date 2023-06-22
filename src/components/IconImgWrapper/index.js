@@ -1,0 +1,1 @@
+export { IconImgWrapper } from "./IconImgWrapper";
